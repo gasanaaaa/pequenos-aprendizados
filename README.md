@@ -1,4 +1,3 @@
-# pequenos-aprendizados
 
 # Pequenos Aprendizados em Programação
 
